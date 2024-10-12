@@ -1,1 +1,13 @@
 /* this line is a comment */
+
+body {
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.filmgrid {
+    align-self: center;
+    display: flexbox;
+    border: solid #fff;
+    
+}
